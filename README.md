@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/sqlite-fts5-securedel">sqlite-fts5-securedel</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/sqlite-fts5-securedel"><strong>https://abraxaslabs.tech/research/sqlite-fts5-securedel</strong></a>
+</p>
+
 
 # sqlite-fts5-securedel
 
